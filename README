@@ -1,0 +1,7 @@
+bluff-node
+----------
+
+bluff-node fork from "Beautiful graphs in Javascript library bluff <http://bluff.jcoglan.com/>"
+To draw a graph, you create a new Bluff graph object using the id of a canvas element on the node
+
+canvas using https://github.com/LearnBoost/node-canvas

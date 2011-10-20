@@ -1,0 +1,18 @@
+{
+  "author": "Yusuke Hata (http://about.me/nowelium)",
+  "name": "bluff-node",
+  "description": "canvas graphing library",
+  "version": "0.0.0",
+  keywords": ["bluff", "graph", "canvas", "graphic", "graphics"],
+  "repository": {
+    "url": ""
+  },
+  "main": "./lib/bluff",
+  "engines": {
+    "node": "~v0.4.7"
+  },
+  "dependencies": {
+    "canvas": "0.7.3"
+  },
+  "devDependencies": {}
+}
