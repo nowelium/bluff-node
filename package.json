@@ -3,7 +3,7 @@
   "name": "bluff-node",
   "description": "canvas graphing library",
   "version": "0.0.0",
-  keywords": ["bluff", "graph", "canvas", "graphic", "graphics"],
+  "keywords": ["bluff", "graph", "canvas", "graphic", "graphics"],
   "repository": {
     "url": ""
   },
